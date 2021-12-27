@@ -1,10 +1,16 @@
 # amqplib-as-promised
 
-**NOTE:** This is a fork of [amqplib-as-promised](https://github.com/twawszczak/amqplib-as-promised) with some bugfixes and updated dependencies intended to be used until the changes get merged into the main repo.
+**NOTE:** This is a fork of [amqplib-as-promised](https://github.com/twawszczak/amqplib-as-promised)
+with some bugfixes and updated dependencies intended to be used until the
+changes get merged into the main repo.
+
+<!-- markdownlint-disable -->
 
 [![CI Workflow](https://github.com/kffl/amqplib-as-promised/actions/workflows/ci.yml/badge.svg)](https://github.com/kffl/amqplib-as-promised/actions/workflows/ci.yml)
 [![NPM version](https://img.shields.io/npm/v/@kffl/amqplib-as-promised.svg?style=flat)](https://www.npmjs.com/package/@kffl/amqplib-as-promised)
 [![NPM downloads](https://img.shields.io/npm/dm/@kffl/amqplib-as-promised.svg?style=flat)](https://www.npmjs.com/package/@kffl/amqplib-as-promised)
+
+<!-- markdownlint-enable -->
 
 This module wrapping [amqplib node.js
 library](http://www.squaremobius.net/amqp.node/channel_api.html) to provide
