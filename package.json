@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/kffl/amqplib-as-promised#readme",
   "dependencies": {
-    "amqplib": "^0.9.1",
+    "amqplib": "^0.10.0",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
